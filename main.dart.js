@@ -47537,7 +47537,7 @@ r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 V.uZ.prototype={
 U:function(a,b){var s=null
-return T.a1V(M.oq(s,T.a1w(H.c([L.re("About Me:",A.fq(s,s,s,s,s,s,s,s,s,s,s,30,s,C.eJ,s,s,!0,s,s,s,s,s,s)),T.Qw(s,20,s),L.re("Ohh hey! \ud83d\udc4b \nThis is Bharat Makwana\ud83d\ude03\nI am an mobile app developer\ud83d\udcf1,\nI like contributing to the community\ud83e\uddbe,\nI spend my time learning new things and finding solution to bugs\ud83d\udcbb,\nI am new to web development but I made this with Flutter web\ud83d\udc68\u200d\ud83d\udcbb.",A.fq(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s))],t.fQ),C.iu,C.pe),s,s,s,s,new V.bj(30,0,30,0),s),9)}}
+return T.a1V(M.oq(s,T.a1w(H.c([L.re("About Me:",A.fq(s,s,s,s,s,s,s,s,s,s,s,30,s,C.eJ,s,s,!0,s,s,s,s,s,s)),T.Qw(s,20,s),L.re("Ohh hey! \ud83d\udc4b \nThis is Bharat Makwana\ud83d\ude03\nI am a mobile app developer\ud83d\udcf1,\nI like contributing to the community\ud83e\uddbe,\nI spend my time learning new things and finding solution to bugs\ud83d\udcbb,\nI am new to web development but I made this with Flutter web\ud83d\udc68\u200d\ud83d\udcbb.",A.fq(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s))],t.fQ),C.iu,C.pe),s,s,s,s,new V.bj(30,0,30,0),s),9)}}
 F.xT.prototype={
 U:function(a,b){var s,r=null,q=t.w,p=b.a5(q).f
 p=M.oq(r,T.YZ(M.oq(r,new U.pc(M.acz(r,r,new D.lU("https://avatars.githubusercontent.com/u/37737418?v=4",1)),r),C.k,r,r,r,new V.bj(4,4,4,4),r),r,r),C.hL,r,r,r,r,p.a.a/2)
